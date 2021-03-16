@@ -1,3 +1,11 @@
+/*
+  col -  < 576px
+  sm >= 576px
+  md >= 768px
+  lg >= 992px
+  xl >= 1200
+  xxl >= 1400
+*/
 *{
   box-sizing: border-box;
 }
@@ -95,15 +103,6 @@
   flex-basis: var(--width);
   max-width: var(--width);
 }
-
-/*
-  col -  < 576px
-  sm >= 576px
-  md >= 768px
-  lg >= 992px
-  xl >= 1200
-  xxl >= 1400
-*/
 
 @media screen and (min-width: 576px){
   .container{
