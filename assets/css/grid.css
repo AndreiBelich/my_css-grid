@@ -185,7 +185,7 @@
 
 @media screen and (min-width: 768px){
   .container{
-    max-width: 760px;
+    max-width: 740px;
   }
 
   .col-md-1{
@@ -263,7 +263,7 @@
 
 @media screen and (min-width: 992px){
   .container{
-    max-width: 970px;
+    max-width: 960px;
   }
 
   .col-lg-1{
